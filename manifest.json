@@ -1,0 +1,26 @@
+{
+  "name": "우리가족 VOCA",
+  "short_name": "가족VOCA",
+  "description": "온 가족 영어 단어 학습 (아빠·엄마·은봉이·지봉이)",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
